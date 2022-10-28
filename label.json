@@ -1,0 +1,9 @@
+{
+    "label": [
+        [0, "cap_and_hat"],
+        [1, "outerwear"],
+        [2, "tops"],
+        [3, "bottoms"],
+        [4, "shoes"]
+    ]
+}
